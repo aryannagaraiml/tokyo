@@ -1,0 +1,35 @@
+body {
+    margin: 0px;
+    color: grey;
+}
+
+#rio {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #111111;
+}
+
+#berlin {
+    width: 30%;
+    height: 85%;
+    background-color: #222222;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#berlin p {
+    font-size: 18px;
+    
+}
+
+#narobi {
+    width: 50%;
+    height: 85%;
+    background-color: #222222;
+    border-radius: 20px;
+}
